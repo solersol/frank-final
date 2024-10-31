@@ -1,6 +1,6 @@
 // 
 import React, { useEffect, useState } from 'react';
-import {img1, img2, img3} from '../assets/images'; // Update with your image path
+import {img1, img2, img3, img4} from '../assets/images'; // Update with your image path
 
 
 const Frank = () => {
@@ -51,21 +51,28 @@ const Frank = () => {
             <img
               src={img1}
               alt="Image 1"
-              className="w-16 h-16 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
+              className="w-8 h-8 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
             />
           </a>
           <a href="https://pump.fun/" target="_blank" rel="noopener noreferrer">
             <img
               src={img2}
               alt="Image 2"
-              className="w-16 h-16 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
+              className="w-8 h-8 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
             />
           </a>
           <a href="https://t.me/ScaryFrank" target="_blank" rel="noopener noreferrer">
             <img
               src={img3}
               alt="Image 3"
-              className="w-16 h-16 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
+              className="w-8 h-8 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
+            />
+          </a>
+          <a href="https://www.tiktok.com/@scaryfrank1" target="_blank" rel="noopener noreferrer">
+            <img
+              src={img4}
+              alt="Image 3"
+              className="w-8 h-8 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
             />
           </a>
         </div>

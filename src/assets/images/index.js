@@ -12,6 +12,7 @@ import bg6 from './bg6.png'
 import img1 from './x.png'
 import img2 from './pump.png'
 import img3 from './tg.png'
+import img4 from './img4.png'
 import loadingImage from "./spinner.png";
 import banner1 from './main2.png'
 import videoBg from './vidbg.mp4'
@@ -77,6 +78,7 @@ export {
     img1,
     img2,
     img3,
+    img4,
     banner1,
     videoBg,
     videoBg2,
