@@ -38,7 +38,7 @@ const Frank = () => {
           }`}
           style={{ fontFamily: 'Creepster, sans-serif' }}
         >
-          Coming Soon
+          Coming Soon 31/10
         </p>
 
         {/* Icon Links */}
@@ -47,7 +47,7 @@ const Frank = () => {
             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
           }`}
         >
-          <a href="https://x.com/" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/ScaryFrankSol" target="_blank" rel="noopener noreferrer">
             <img
               src={img1}
               alt="Image 1"
@@ -61,7 +61,7 @@ const Frank = () => {
               className="w-16 h-16 invert sm:w-12 sm:h-12 transition-transform transform hover:scale-125"
             />
           </a>
-          <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/ScaryFrank" target="_blank" rel="noopener noreferrer">
             <img
               src={img3}
               alt="Image 3"
