@@ -38,7 +38,7 @@ const Frank = () => {
           }`}
           style={{ fontFamily: 'Creepster, sans-serif' }}
         >
-          Coming Soon 31/10
+          CA: Bcvn8TMPkgmgDophZX2v4tZkxk9v4nj2g36Lu4XFpump
         </p>
 
         {/* Icon Links */}
